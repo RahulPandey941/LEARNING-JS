@@ -4,7 +4,8 @@ let userEmail = "rahul@example.com";
 // var userName = "Rahul";
 // NOTE :
 //      prefet not use var to declare variable because of its scope issue and hoisting issue
-
+userEmail = "unknown"
+userId = 30
 // userName = "Rahul Pandey"; // reassigning the value of userName variable
 // console.log(userName);
 
